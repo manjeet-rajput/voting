@@ -10,6 +10,7 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Eventfun/>
+    <h1>rinku</h1>
   </React.StrictMode>
 );
 
