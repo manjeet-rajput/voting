@@ -10,10 +10,6 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Eventfun/>
-    <h1>rahul</h1>
-    <h1>rinkiu</h1>
-    <h1>manjeet</h1>
-    <h1>mahesh</h1>
   </React.StrictMode>
 );
 
